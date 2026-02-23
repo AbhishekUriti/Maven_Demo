@@ -13,4 +13,11 @@ public class Demo {
     public void div(){
         System.out.println("Div");
     }
+    public void lcm(){
+        System.out.println("LCM");
+    }
+
+    public static void main(String[] args) {
+
+    }
 }
